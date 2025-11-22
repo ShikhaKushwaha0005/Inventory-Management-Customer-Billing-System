@@ -63,6 +63,9 @@ The project has 101 to 150 item in stock enter any numbee between these to run a
 
 •••SCREENSHOTS••• <br>
 
+![WhatsApp Image 2025-11-22 at 21 49 41_bf115bdf](https://github.com/user-attachments/assets/1f159977-9a98-44b4-8a4b-a8e852772740)
+
+
 <img width="979" height="370" alt="image" src="https://github.com/user-attachments/assets/42af5071-7fb3-41ba-8c68-1a8f7653e221" />
 
 <img width="979" height="406" alt="image" src="https://github.com/user-attachments/assets/1f5ff0db-412f-4905-8037-fa584f6ee6a5" />
