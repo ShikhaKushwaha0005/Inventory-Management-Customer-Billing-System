@@ -1,8 +1,8 @@
 # Inventory Management & Customer Billing System<br>
 
-#•••PROJECT TITLE••• <br>
-Inventory Management & Customer Billing System
-<br>
+"""
+•••PROJECT TITLE••• <br>
+Inventory Management & Customer Billing System<br>
 
 
 •••OVERVIEW OF THE PROJECT•••<br>
@@ -11,6 +11,7 @@ Customer Billing System Project is a basic console application created to show t
 
 
 •••PROGRAM CODE•••<br>
+"""
 import mysql.connector
 import csv
 
@@ -220,7 +221,7 @@ while True:
     except ValueError:
         print("Invalid input. Enter a number between 1 and 3.")
 
-
+"""
 •••FEATURES•••<br>
 The objective of the software project is to develop a computerized MIS and to automate the functions of a CUSTOMER BILLING SYSTEM. This software project is also aimed to enhance the current record keeping system, which will help managers to retrieve the up-to-date information at right time in right shape.<br>
 
@@ -297,5 +298,4 @@ The project has 101 to 150 item in stock enter any numbee between these to run a
 <img width="518" height="415" alt="image" src="https://github.com/user-attachments/assets/5e333a81-1f46-4dbf-9384-df0da71cd372" />
 
 ![WhatsApp Image 2025-11-22 at 22 14 09_29b48df8](https://github.com/user-attachments/assets/c73e0108-d930-4af5-820f-d7eaa7248b77)
-
-
+"""
