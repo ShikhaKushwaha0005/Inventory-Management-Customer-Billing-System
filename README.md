@@ -41,24 +41,24 @@ The proposed software system is expected to do the following functionality- <br>
    • MS-Word 2019 for documentation <br>
    • CSV- It is used to handle csv file.  <br>
          Module contains functions like :- <br>
-         •	reader()
-         •	writer()
-         •	writerow()
-         •	writerows()
+         •	reader() <br>
+         •	writer() <br>
+         •	writerow() <br>
+         •	writerows() <br>
    
 
 
-•••STEPS TO INSTALL & RUN THE PROJECT•••
-Use python, github, MySQL to run the project.
-The project has 101 to 150 item in stock enter any numbee between these to run all and any part of the billing system.
+•••STEPS TO INSTALL & RUN THE PROJECT••• <br>
+Use python, github, MySQL to run the project. <br>
+The project has 101 to 150 item in stock enter any numbee between these to run all and any part of the billing system. <br>
 
 
-•••INSTRUCTIONS FOR TESTING•••
+•••INSTRUCTIONS FOR TESTING••• <br>
 1.While running the program keep in mind that thr inventory only has items listed from 101 to 150.
-2.To add any item choose any number apart from 101-150.
+2.To add any item choose any number apart from 101-150. <br>
 
 
-•••SCREENSHOTS•••
+•••SCREENSHOTS••• <br>
 
 <img width="582" height="168" alt="image" src="https://github.com/user-attachments/assets/78e3ed98-a0a9-4c06-9352-52f3078ebb29" />
 
