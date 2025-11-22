@@ -26,7 +26,7 @@ Major features:<br>
          
 The proposed software system is expected to do the following functionality- <br>
   • To provide a user friendly and centralized environment for  MANAGEMENT activities
-  • The proposed system should maintain all the records of Billings and particular items along with         their details such as item number and item name and quantity, and generate the required reports and     information when required.  <br>
+  • The proposed system should maintain all the records of Billings and particular items along with their details such as item number and item name and quantity,and generate the required reports and information when required.  <br>
   
 
 •••TECNOLOGIES/TOOLS USED••• <br>
@@ -60,24 +60,9 @@ The project has 101 to 150 item in stock enter any numbee between these to run a
 
 •••SCREENSHOTS••• <br>
 
-<img width="582" height="168" alt="image" src="https://github.com/user-attachments/assets/78e3ed98-a0a9-4c06-9352-52f3078ebb29" />
-
-<img width="792" height="665" alt="image" src="https://github.com/user-attachments/assets/532e604f-8840-413a-9ca9-ec4c492cf7bf" />
-
 <img width="979" height="370" alt="image" src="https://github.com/user-attachments/assets/42af5071-7fb3-41ba-8c68-1a8f7653e221" />
 
 <img width="979" height="406" alt="image" src="https://github.com/user-attachments/assets/1f5ff0db-412f-4905-8037-fa584f6ee6a5" />
 
 <img width="518" height="415" alt="image" src="https://github.com/user-attachments/assets/5e333a81-1f46-4dbf-9384-df0da71cd372" />
 
-<img width="733" height="652" alt="image" src="https://github.com/user-attachments/assets/ac38d4ec-a03f-4b93-8a02-d6d17e901644" />
-
-<img width="485" height="368" alt="image" src="https://github.com/user-attachments/assets/0dd5bf71-0ebb-4ebb-ab9f-0978318d3820" />
-
-<img width="979" height="270" alt="image" src="https://github.com/user-attachments/assets/6e642a6d-01d1-4863-bb7a-d047116b2662" />
-
-<img width="699" height="448" alt="image" src="https://github.com/user-attachments/assets/162d6695-cf25-4425-a960-1f5559ca906a" />
-
-<img width="701" height="331" alt="image" src="https://github.com/user-attachments/assets/b9f9a156-4999-4058-a8d7-52fca3eed5a1" />
-
-<img width="703" height="423" alt="image" src="https://github.com/user-attachments/assets/2144f3d7-e6c6-4635-b39a-a3312008aa8c" />
