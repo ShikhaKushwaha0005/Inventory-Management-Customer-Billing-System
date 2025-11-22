@@ -1,7 +1,7 @@
-# Billing-System
+# Billing-System <br>
 
-•••PROJECT TITLE•••
-Customer billing system
+•••PROJECT TITLE••• <br>
+Customer billing system<br>
 
 
 •••OVERVIEW OF THE PROJECT•••
