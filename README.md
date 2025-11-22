@@ -25,10 +25,10 @@ Major features:<br>
 2. Customer billing <br>
 3. Exit
          
-Understanding MySQL–Python integration
-Implementing CRUD operations
-File handling using CSV module
-Error handling and modular programming
+Understanding MySQL–Python integration <br>
+Implementing CRUD operations <br>
+File handling using CSV module <br>
+Error handling and modular programming <br>
 Real-world problem-solving through coding <br>
   
 
