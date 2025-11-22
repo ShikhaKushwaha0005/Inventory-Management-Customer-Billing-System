@@ -77,8 +77,6 @@ The project has 101 to 150 item in stock enter any numbee between these to run a
 
 ![WhatsApp Image 2025-11-22 at 22 06 16_9276032e](https://github.com/user-attachments/assets/3652cd25-a2b3-4ba7-9e78-47f3852f7ad0)
 
-![WhatsApp Image 2025-11-22 at 22 06 16_6b8154c9](https://github.com/user-attachments/assets/c3a65c1d-d758-4c01-9a56-91147eababc9)
-
 ![WhatsApp Image 2025-11-22 at 22 10 20_fc650c90](https://github.com/user-attachments/assets/ab4b804b-d4dc-45aa-8a15-00ad420c542d)
 
 <img width="979" height="370" alt="image" src="https://github.com/user-attachments/assets/42af5071-7fb3-41ba-8c68-1a8f7653e221" />
@@ -86,4 +84,7 @@ The project has 101 to 150 item in stock enter any numbee between these to run a
 <img width="979" height="406" alt="image" src="https://github.com/user-attachments/assets/1f5ff0db-412f-4905-8037-fa584f6ee6a5" />
 
 <img width="518" height="415" alt="image" src="https://github.com/user-attachments/assets/5e333a81-1f46-4dbf-9384-df0da71cd372" />
+
+![WhatsApp Image 2025-11-22 at 22 14 09_29b48df8](https://github.com/user-attachments/assets/c73e0108-d930-4af5-820f-d7eaa7248b77)
+
 
